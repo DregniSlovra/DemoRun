@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3   CMakeFiles/DemoRun.dir/sources/main.cpp.o CMakeFiles/DemoRun.dir/sources/Board.cpp.o CMakeFiles/DemoRun.dir/sources/Tile.cpp.o CMakeFiles/DemoRun.dir/sources/Pawn.cpp.o  -o DemoRun 

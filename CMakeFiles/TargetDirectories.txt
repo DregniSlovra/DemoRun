@@ -1,0 +1,3 @@
+/mnt/c/Users/mesla/Documents/Projects/DemoRun/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/mesla/Documents/Projects/DemoRun/CMakeFiles/edit_cache.dir
+/mnt/c/Users/mesla/Documents/Projects/DemoRun/CMakeFiles/DemoRun.dir
